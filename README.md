@@ -1,2 +1,1 @@
-![Alt text](./connectivity.svg)
-<img src="./connectivity.svg">
+![Alt text](./connectivity.svg)<img src="./connectivity.svg">
